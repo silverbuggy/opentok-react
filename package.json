@@ -1,6 +1,6 @@
 {
   "name": "opentok-react-viv",
-  "version": "0.1.17",
+  "version": "0.1.18",
   "description": "React components for OpenTok.js",
   "main": "dist/index.js",
   "scripts": {
